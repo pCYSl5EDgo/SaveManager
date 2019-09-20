@@ -3,7 +3,7 @@
 Scene切り替えを伴うセーブ・ロード機能を提供します。
 
 ## 導入方法
-.unitypackageをprojectビューへD&D
+[Latest Release](https://github.com/YuminekoStudio/SaveManager/releases/latest)より最新の.unitypackageをダウンロードしてインポートしてください。
 
 ## 使い方
 記事を執筆予定
